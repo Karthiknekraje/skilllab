@@ -41,6 +41,7 @@ Practiced API testing with Postman and Python’s `requests` library, while cont
 
 ## Day 6: Selenium with Pytest & Sentiment Analysis  
 Integrated Selenium with Pytest for structured test automation, developed a sentiment analysis model, and visualized its performance.
+https://colab.research.google.com/drive/1eERmNAqA2MMzhDy8DQDtsZzg0m2jgLei
 
 ---
 
