@@ -49,4 +49,3 @@ This project provides a well-rounded foundation in software testing—ranging fr
 
 ---
 
-Let me know if you'd like a PDF-ready version or want to add screenshots or diagrams!
